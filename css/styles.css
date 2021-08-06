@@ -16,6 +16,7 @@ background-color: bisque;
   float: left;
   border: 10px blueviolet;
   border-style: outset;
+  margin: 50px;
 }
 
 img {
