@@ -6,6 +6,10 @@ background-color: bisque;
   text-align: center;
 }
 
+.column {
+  text-align: center;
+}
+
 .frame {
   width: auto;
   height: 550px;
@@ -14,17 +18,12 @@ background-color: bisque;
   border-style: outset;
 }
 
-.column {
-  float: left;
-  width: 400px;
-}
 img {
   max-height: 550px;
 }
 
 .textpad {
-  float: left;
-  padding: 10px;
+  text-align: center;
 }
 
 .mybackground {
@@ -35,4 +34,9 @@ img {
 .important {
   color: rgb(196, 9, 65);
   font-weight: bolder;
+}
+
+.img2 {
+  float: right;
+  margin: 10px;
 }
