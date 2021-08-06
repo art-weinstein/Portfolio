@@ -29,6 +29,10 @@ img {
 
 .mybackground {
   font-style: italic;
-  width: 200px;
-  padding: 10px;
+  width: 400px;
+}
+
+.important {
+  color: rgb(196, 9, 65);
+  font-weight: bolder;
 }
