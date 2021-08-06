@@ -8,7 +8,7 @@ background-color: bisque;
 
 .frame {
   width: auto;
-  height: 450px;
+  height: 550px;
   float: left;
   border: 10px blueviolet;
   border-style: outset;
@@ -16,13 +16,19 @@ background-color: bisque;
 
 .column {
   float: left;
-  width: 400 px;
+  width: 400px;
 }
 img {
-  max-height: 450px;
+  max-height: 550px;
 }
 
 .textpad {
   float: left;
+  padding: 10px;
+}
+
+.mybackground {
+  font-style: italic;
+  width: 200px;
   padding: 10px;
 }
